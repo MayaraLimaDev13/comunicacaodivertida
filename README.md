@@ -65,7 +65,7 @@ comunicacao-divertida/
    npm start
    ```
 
-O aplicativo estará disponível em `http://comunicacaodivertida.netlify.app`.
+O aplicativo estará disponível em `http://comunicacao-divertida.netlify.app`.
 
 ---
 
