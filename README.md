@@ -23,10 +23,12 @@
 
 ## 💻 Tecnologias Utilizadas
 
-- React JS (Componentes Funcionais + Hooks)  
+- React JS (Componentes Funcionais + Hooks)
+- Javascript (Manipulação de estados e eventos)
 - CSS3 (Grid, Flexbox, Media Queries, Variáveis CSS)  
 - Webpack (Gestão de Assets)  
-- Google Fonts (Tipografia acessível)
+- Google Fonts (Fonte lexend, tem características tipográficas adequada para crianças com TEA)
+- Imagens e aúdios (Recursos multimídia)
 
 ---
 
